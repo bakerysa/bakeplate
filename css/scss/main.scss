@@ -1,5 +1,5 @@
 // Install FontAwesome for useful icons
-@import "../../bower_components/font-awesome/scss/font-awesome.scss";
+// @import "../../bower_components/font-awesome/scss/font-awesome.scss";
 
 // Import fonts from Google
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700|Lato:400,700);
@@ -36,7 +36,7 @@
 @import "base/shame";
 
 body {
-    background-color: white;
+    background-color: red;
 }
 
 .wrapper {
