@@ -1,1 +1,1 @@
-Bakeplate - The official template for The Bakery's project development team.
+Bakeplate - Boilerplate for Bakery Digital.
