@@ -1,6 +1,6 @@
 ## Bakeplate - Boilerplate for Bakery Digital
 
-# [![Bakeplate](https://github.com/bakerysa/bakeplate/cover.png)](https://github.com/bakerysa/bakeplate)
+# [![Bakeplate](https://github.com/bakerysa/bakeplate/blob/master/cover.png)](https://github.com/bakerysa/bakeplate)
 
 ### Summary
 
